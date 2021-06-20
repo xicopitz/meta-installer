@@ -22,7 +22,7 @@ IMAGE_INSTALL = "\
     anaconda-init \
     kernel-modules \
     ${CUSTOMIZE_LOGOS} \
-    dhcp-client \
+    dhcpcd \
     ldd \
     "
 IMAGE_LINGUAS = "en-us en-gb"
